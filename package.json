@@ -1,0 +1,13 @@
+{
+  "name": "NodejsWebApp3",
+  "version": "0.0.0",
+  "description": "NodejsWebApp3",
+  "main": "server.js",
+  "author": {
+    "name": "Meet",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.14.1"
+  }
+}
